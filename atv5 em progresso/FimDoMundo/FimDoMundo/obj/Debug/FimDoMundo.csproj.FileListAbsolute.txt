@@ -1,0 +1,10 @@
+C:\Users\0030482323017\Desktop\FimDoMundo\FimDoMundo\bin\Debug\FimDoMundo.exe.config
+C:\Users\0030482323017\Desktop\FimDoMundo\FimDoMundo\bin\Debug\FimDoMundo.exe
+C:\Users\0030482323017\Desktop\FimDoMundo\FimDoMundo\bin\Debug\FimDoMundo.pdb
+C:\Users\0030482323017\Desktop\FimDoMundo\FimDoMundo\obj\Debug\FimDoMundo.csproj.AssemblyReference.cache
+C:\Users\0030482323017\Desktop\FimDoMundo\FimDoMundo\obj\Debug\FimDoMundo.Form1.resources
+C:\Users\0030482323017\Desktop\FimDoMundo\FimDoMundo\obj\Debug\FimDoMundo.Properties.Resources.resources
+C:\Users\0030482323017\Desktop\FimDoMundo\FimDoMundo\obj\Debug\FimDoMundo.csproj.GenerateResource.cache
+C:\Users\0030482323017\Desktop\FimDoMundo\FimDoMundo\obj\Debug\FimDoMundo.csproj.CoreCompileInputs.cache
+C:\Users\0030482323017\Desktop\FimDoMundo\FimDoMundo\obj\Debug\FimDoMundo.exe
+C:\Users\0030482323017\Desktop\FimDoMundo\FimDoMundo\obj\Debug\FimDoMundo.pdb
